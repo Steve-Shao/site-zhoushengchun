@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji on Eureka Demo</title>
+    <title>emoji on 网站模版</title>
     <link>http://zhoushengchun.life/tags/emoji/</link>
-    <description>Recent content in emoji on Eureka Demo</description>
+    <description>Recent content in emoji on 网站模版</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
-</copyright>
-    <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://zhoushengchun.life/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Emoji Support</title>
+      <title>一篇文章</title>
       <link>http://zhoushengchun.life/posts/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://zhoushengchun.life/posts/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <description>&lt;p&gt;当时只道是寻常&lt;/p&gt;</description>
     </item>
     
   </channel>
