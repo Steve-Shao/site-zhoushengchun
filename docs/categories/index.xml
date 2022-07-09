@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Eureka Demo</title>
-    <link>/categories/</link>
+    <link>http://zhoushengchun.life/categories/</link>
     <description>Recent content in Categories on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,24 +10,24 @@
 </copyright>
     <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zhoushengchun.life/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>themes</title>
-      <link>/categories/themes/</link>
+      <link>http://zhoushengchun.life/categories/themes/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/categories/themes/</guid>
+      <guid>http://zhoushengchun.life/categories/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax</title>
-      <link>/categories/syntax/</link>
+      <link>http://zhoushengchun.life/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/syntax/</guid>
+      <guid>http://zhoushengchun.life/categories/syntax/</guid>
       <description></description>
     </item>
     

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Eureka Demo</title>
-    <link>/tags/</link>
+    <link>http://zhoushengchun.life/tags/</link>
     <description>Recent content in Tags on Eureka Demo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,69 +10,69 @@
 </copyright>
     <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://zhoushengchun.life/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>image</title>
-      <link>/tags/image/</link>
+      <link>http://zhoushengchun.life/tags/image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/image/</guid>
+      <guid>http://zhoushengchun.life/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>/tags/css/</link>
+      <link>http://zhoushengchun.life/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/css/</guid>
+      <guid>http://zhoushengchun.life/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>/tags/html/</link>
+      <link>http://zhoushengchun.life/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/html/</guid>
+      <guid>http://zhoushengchun.life/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>/tags/markdown/</link>
+      <link>http://zhoushengchun.life/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/markdown/</guid>
+      <guid>http://zhoushengchun.life/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>/tags/themes/</link>
+      <link>http://zhoushengchun.life/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/themes/</guid>
+      <guid>http://zhoushengchun.life/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>text</title>
-      <link>/tags/text/</link>
+      <link>http://zhoushengchun.life/tags/text/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/text/</guid>
+      <guid>http://zhoushengchun.life/tags/text/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>/tags/emoji/</link>
+      <link>http://zhoushengchun.life/tags/emoji/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/emoji/</guid>
+      <guid>http://zhoushengchun.life/tags/emoji/</guid>
       <description></description>
     </item>
     
