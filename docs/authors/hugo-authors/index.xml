@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Authors on 网站模版</title>
-    <link>https://mycclp.github.io/zhoushengchun/authors/hugo-authors/</link>
+    <link>https://zhoushengchun.life/authors/hugo-authors/</link>
     <description>Recent content in Hugo Authors on 网站模版</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mycclp.github.io/zhoushengchun/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhoushengchun.life/authors/hugo-authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>一篇文章</title>
-      <link>https://mycclp.github.io/zhoushengchun/posts/emoji-support/</link>
+      <link>https://zhoushengchun.life/posts/emoji-support/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://mycclp.github.io/zhoushengchun/posts/emoji-support/</guid>
+      <guid>https://zhoushengchun.life/posts/emoji-support/</guid>
       <description>&lt;p&gt;当时只道是寻常&lt;/p&gt;</description>
     </item>
     

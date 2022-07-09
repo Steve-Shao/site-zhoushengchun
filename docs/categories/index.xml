@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 网站模版</title>
-    <link>https://mycclp.github.io/zhoushengchun/categories/</link>
+    <link>https://zhoushengchun.life/categories/</link>
     <description>Recent content in Categories on 网站模版</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 26 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mycclp.github.io/zhoushengchun/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhoushengchun.life/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>themes</title>
-      <link>https://mycclp.github.io/zhoushengchun/categories/themes/</link>
+      <link>https://zhoushengchun.life/categories/themes/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://mycclp.github.io/zhoushengchun/categories/themes/</guid>
+      <guid>https://zhoushengchun.life/categories/themes/</guid>
       <description></description>
     </item>
     
