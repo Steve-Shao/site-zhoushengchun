@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 网站模版</title>
-    <link>https://zhoushengchun.life/tags/</link>
+    <link>https://mycclp.github.io/zhoushengchun/tags/</link>
     <description>Recent content in Tags on 网站模版</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhoushengchun.life/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mycclp.github.io/zhoushengchun/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>emoji</title>
-      <link>https://zhoushengchun.life/tags/emoji/</link>
+      <link>https://mycclp.github.io/zhoushengchun/tags/emoji/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zhoushengchun.life/tags/emoji/</guid>
+      <guid>https://mycclp.github.io/zhoushengchun/tags/emoji/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image</title>
-      <link>https://zhoushengchun.life/tags/image/</link>
+      <link>https://mycclp.github.io/zhoushengchun/tags/image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zhoushengchun.life/tags/image/</guid>
+      <guid>https://mycclp.github.io/zhoushengchun/tags/image/</guid>
       <description></description>
     </item>
     
