@@ -1,0 +1,7 @@
+main:
+  - name: 文章
+    url: /posts/
+    weight: 2
+  - name: English Site
+    url: ../en/
+    weight: 5

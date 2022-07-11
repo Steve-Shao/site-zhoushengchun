@@ -1,0 +1,7 @@
+main:
+  - name: Articles
+    url: /posts/
+    weight: 2
+  - name: 中文页面
+    url: ../zh/
+    weight: 5
