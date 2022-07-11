@@ -16,8 +16,7 @@ defaultContentLanguage: zh
 hasCJKLanguage: true # Set `true` for Chinese/Japanese/Korean.
 defaultContentLanguageInSubdir: false
 
-# Uncomment for google analytics
-# googleAnalytics: UA-123-45
+googleAnalytics: UA-234094605-1
 
 markup:
   # Do not modify markup.highlight
