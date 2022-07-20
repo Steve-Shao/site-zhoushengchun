@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>emoji on Shengchun Zhou</title>
+    <title>emoji on 周生春</title>
     <link>https://zhoushengchun.life/en/tags/emoji/</link>
-    <description>Recent content in emoji on Shengchun Zhou</description>
+    <description>Recent content in emoji on 周生春</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
     <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://zhoushengchun.life/en/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +12,10 @@
     
     <item>
       <title>An Article</title>
-      <link>https://zhoushengchun.life/en/posts/emoji-support/</link>
+      <link>https://zhoushengchun.life/en/en/posts/emoji-support/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zhoushengchun.life/en/posts/emoji-support/</guid>
+      <guid>https://zhoushengchun.life/en/en/posts/emoji-support/</guid>
       <description>&lt;p&gt;description&lt;/p&gt;</description>
     </item>
     

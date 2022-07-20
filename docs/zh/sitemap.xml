@@ -48,21 +48,6 @@
   </url>
   
   <url>
-    <loc>https://zhoushengchun.life/zh/posts/</loc>
-    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/posts/"
-                />
-  </url>
-  
-  <url>
     <loc>https://zhoushengchun.life/zh/tags/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -80,16 +65,6 @@
   <url>
     <loc>https://zhoushengchun.life/zh/posts/emoji-support/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/posts/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/posts/emoji-support/"
-                />
   </url>
   
   <url>
@@ -105,6 +80,11 @@
                 hreflang="zh"
                 href="https://zhoushengchun.life/zh/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/posts/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -200,16 +180,6 @@
   <url>
     <loc>https://zhoushengchun.life/zh/posts/featured-image/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/posts/featured-image/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/posts/featured-image/"
-                />
   </url>
   
 </urlset>
