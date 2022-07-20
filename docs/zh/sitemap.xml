@@ -4,6 +4,7 @@
   
   <url>
     <loc>https://zhoushengchun.life/zh/authors/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +15,36 @@
                 hreflang="zh"
                 href="https://zhoushengchun.life/zh/authors/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhoushengchun.life/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhoushengchun.life/zh/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/posts/xiao-xiyuan/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/posts/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/authors/%E8%82%96%E8%8C%9C%E5%85%83/</loc>
+    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -56,24 +87,6 @@
                 hreflang="zh"
                 href="https://zhoushengchun.life/zh/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://zhoushengchun.life/zh/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://zhoushengchun.life/zh/posts/</loc>
   </url>
   
 </urlset>
