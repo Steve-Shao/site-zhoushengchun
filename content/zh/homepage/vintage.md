@@ -2,8 +2,8 @@
 title: Vintage
 draft: false
 slogan: 一句话，一些照片
-imgLeft: 1.jpeg
-imgRight: 2.jpeg
+imgLeft: cover-1.jpeg
+imgRight: cover-2.jpeg
 
 weight: 4
 widget:

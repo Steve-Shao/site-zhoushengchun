@@ -2,7 +2,7 @@
 title: 周生春
 draft: false
 # role: 职务
-avatar: icon.png
+avatar: icon.jpeg
 bio: 一段简介
 # organization:
 #   name: 单位

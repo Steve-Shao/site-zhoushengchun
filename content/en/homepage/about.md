@@ -1,8 +1,8 @@
 ---
-title: Name
+title: Shengchun Zhou
 draft: false
 # role: Role
-avatar: icon.png
+avatar: icon.jpeg
 bio: Bio
 # organization:
 #   name: Organization

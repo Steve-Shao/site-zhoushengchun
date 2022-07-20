@@ -12,7 +12,7 @@ series:
   - Themes Guide
 date: '2020-05-26'
 lastmod: '2020-05-26'
-featuredImage: 3.jpeg
+featuredImage: post-3.jpeg
 draft: false
 ---
 
