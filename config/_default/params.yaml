@@ -1,6 +1,6 @@
 mainSections:
   - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+description: 
 
 repoURL:
 # If it is a Github repo, leave blank
@@ -11,12 +11,12 @@ dateFormat:
 titleSeparator:
 
 # Options: auto, light and dark. Default is auto.
-colorScheme:
+colorScheme: auto
 
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
 icon: images/icon.png
-publisherName: C. Wang
+publisherName: CCLP
 publisherLogo:
 
 highlight:

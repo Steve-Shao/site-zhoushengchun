@@ -1,12 +1,12 @@
 ---
 title: Name
 draft: false
-role: Role
+# role: Role
 avatar: icon.png
 bio: Bio
-organization:
-  name: Organization
-  url: https://example.com/
+# organization:
+#   name: Organization
+#   url: https://example.com/
 social:
 
 weight: 1

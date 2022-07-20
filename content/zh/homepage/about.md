@@ -1,12 +1,12 @@
 ---
-title: 名字
+title: 周生春
 draft: false
-role: 职务
+# role: 职务
 avatar: icon.png
 bio: 一段简介
-organization:
-  name: 单位
-  url: https://example.com/
+# organization:
+#   name: 单位
+#   url: https://example.com/
 social:
 
 weight: 1
@@ -25,11 +25,11 @@ widget:
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
     color: secondary
-    image:
+    image: 
     # Options: auto, cover and contain. Default is auto.
-    size:
+    size: 
     # Options: center, top, right, bottom, left.
-    position:
+    position: 
     # Options: fixed, local, scroll.
     attachment: 
 ---

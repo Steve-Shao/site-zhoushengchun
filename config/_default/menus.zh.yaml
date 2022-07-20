@@ -1,7 +1,7 @@
 main:
-  - name: 文章
+  - name: 纪念文章
     url: /posts/
     weight: 2
-  - name: English Site
+  - name: Tribute Page
     url: ../en/
     weight: 5

@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Memorial Essays
 draft: false
 # Section you want to display
 section: posts
