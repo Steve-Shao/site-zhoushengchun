@@ -1,6 +1,6 @@
 ---
 title: 纪念周老师
-description: 一篇带图片的文章的描述
+description: 
 toc: true
 authors:
   - 肖茜元

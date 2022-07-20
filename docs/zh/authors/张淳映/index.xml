@@ -1,25 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>纪念文章 on 周生春</title>
-    <link>https://zhoushengchun.life/zh/posts/</link>
-    <description>Recent content in 纪念文章 on 周生春</description>
+    <title>张淳映 on 周生春</title>
+    <link>https://zhoushengchun.life/zh/authors/%E5%BC%A0%E6%B7%B3%E6%98%A0/</link>
+    <description>Recent content in 张淳映 on 周生春</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Wed, 20 Jul 2022 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://zhoushengchun.life/zh/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zhoushengchun.life/zh/authors/%E5%BC%A0%E6%B7%B3%E6%98%A0/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>纪念周老师</title>
-      <link>https://zhoushengchun.life/zh/posts/xiao-xiyuan/</link>
-      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhoushengchun.life/zh/posts/xiao-xiyuan/</guid>
-      <description>&lt;br&gt;
-&lt;p&gt;我们这一期文中人中，常常流传着一张表情包：“你们这个样子不行的啦”。&lt;/p&gt;</description>
-    </item>
     
     <item>
       <title>老周</title>
