@@ -25,16 +25,6 @@
   <url>
     <loc>https://zhoushengchun.life/en/tags/emoji/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/tags/emoji/"
-                />
   </url>
   
   <url>
@@ -45,16 +35,6 @@
   <url>
     <loc>https://zhoushengchun.life/en/authors/hugo-authors/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/authors/hugo-authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/authors/hugo-authors/"
-                />
   </url>
   
   <url>
@@ -115,31 +95,11 @@
   <url>
     <loc>https://zhoushengchun.life/en/authors/example-author/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/authors/example-author/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/authors/example-author/"
-                />
   </url>
   
   <url>
     <loc>https://zhoushengchun.life/en/tags/image/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/tags/image/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/tags/image/"
-                />
   </url>
   
   <url>
@@ -160,31 +120,11 @@
   <url>
     <loc>https://zhoushengchun.life/en/categories/themes/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/categories/themes/"
-                />
   </url>
   
   <url>
     <loc>https://zhoushengchun.life/en/series/themes-guide/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/series/themes-guide/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/series/themes-guide/"
-                />
   </url>
   
 </urlset>
