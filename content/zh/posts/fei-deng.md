@@ -1,11 +1,12 @@
 ---
-title: 怀念周生春老师
+title: 怀念周生春老师 - 邓菲
 description: 
 toc: true
 authors:
   - 邓菲
 date: '2022-07-21'
 lastmod: '2020-07-21'
+featuredImage: person1.jpeg
 draft: false
 ---
 
