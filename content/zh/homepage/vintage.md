@@ -5,7 +5,7 @@ slogan: 言传身教，知行合一
 imgLeft: cover-1.jpeg
 imgRight: cover-2.jpeg
 
-weight: 4
+weight: 5
 widget:
   handler: vintage
 
