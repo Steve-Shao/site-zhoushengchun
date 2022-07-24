@@ -6,7 +6,7 @@ theme: eureka
 
 publishDir: docs
 
-paginate: 3
+paginate: 20
 copyright: 
 enableEmoji: false
 enableGitInfo: false
