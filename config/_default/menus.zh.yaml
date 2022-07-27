@@ -2,6 +2,6 @@ main:
   - name: 纪念文章
     url: /posts/
     weight: 2
-#   - name: Tribute Page
-#     url: ../en/
-#     weight: 5
+  - name: Tribute Page
+    url: ../en/
+    weight: 5

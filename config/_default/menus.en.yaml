@@ -1,7 +1,7 @@
 main:
-  - name: Memorial Essays
-    url: /posts/
-    weight: 2
+  # - name: Memorial Essays
+  #   url: /posts/
+  #   weight: 2
   - name: 纪念页面
     url: ../zh/
     weight: 5

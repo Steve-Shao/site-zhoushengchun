@@ -6,6 +6,7 @@ authors:
   - 刘笑敢
 date: '2022-07-24'
 lastmod: '2020-07-24'
+featuredImage: person5.jpeg
 draft: false
 
 ---

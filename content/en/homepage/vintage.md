@@ -1,7 +1,7 @@
 ---
 title: Vintage
 draft: false
-slogan: Some more words ..
+slogan: Once one gained knowledge, one had a duty to put that knowledge into action. 
 imgLeft: cover-1.jpeg
 imgRight: cover-2.jpeg
 

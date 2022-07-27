@@ -45,6 +45,16 @@
   <url>
     <loc>https://zhoushengchun.life/zh/posts/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhoushengchun.life/en/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zhoushengchun.life/zh/posts/"
+                />
   </url>
   
   <url>
