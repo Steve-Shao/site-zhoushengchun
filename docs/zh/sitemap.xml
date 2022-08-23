@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://zhoushengchun.life/zh/authors/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,13 +18,8 @@
   </url>
   
   <url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%86%AF%E5%86%B0/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zhoushengchun.life/zh/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -38,13 +33,8 @@
   </url>
   
   <url>
-    <loc>https://zhoushengchun.life/zh/posts/feng-bing/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://zhoushengchun.life/zh/posts/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,6 +45,36 @@
                 hreflang="zh"
                 href="https://zhoushengchun.life/zh/posts/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/posts/external-lan-zhiyong/</loc>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/authors/%E8%93%9D%E5%BF%97%E5%8B%87/</loc>
+    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/posts/cheng-yuan/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/authors/%E7%A8%8B%E8%BF%9C/</loc>
+    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/authors/%E5%86%AF%E5%86%B0/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zhoushengchun.life/zh/posts/feng-bing/</loc>
+    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url>
   
   <url>
