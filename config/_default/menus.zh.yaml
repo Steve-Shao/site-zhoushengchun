@@ -1,7 +1,13 @@
 main:
   - name: 纪念文章
     url: /posts/
-    weight: 2
+    weight: 1
+  - name: 论文集
+    url: /papers/
+    weight: 3
+  - name: 相册
+    url: /gallery/
+    weight: 4
   - name: Tribute Page
     url: ../en/
     weight: 5
