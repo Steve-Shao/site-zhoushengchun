@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://zhoushengchun.life/en/posts/emoji-support/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/authors/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -20,19 +17,13 @@
                 hreflang="en"
                 href="https://zhoushengchun.life/en/authors/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/tags/emoji/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/authors/hugo-authors/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/posts/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -45,9 +36,7 @@
                 hreflang="en"
                 href="https://zhoushengchun.life/en/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -60,9 +49,7 @@
                 hreflang="en"
                 href="https://zhoushengchun.life/en/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/tags/</loc>
     <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -75,14 +62,10 @@
                 hreflang="en"
                 href="https://zhoushengchun.life/en/tags/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/posts/featured-image/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/categories/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -95,19 +78,13 @@
                 hreflang="en"
                 href="https://zhoushengchun.life/en/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/authors/example-author/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/tags/image/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/series/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,16 +97,11 @@
                 hreflang="en"
                 href="https://zhoushengchun.life/en/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/categories/themes/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://zhoushengchun.life/en/series/themes-guide/</loc>
     <lastmod>2020-05-26T00:00:00+00:00</lastmod>
   </url>
-  
 </urlset>

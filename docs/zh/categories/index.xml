@@ -5,10 +5,6 @@
     <link>https://zhoushengchun.life/zh/categories/</link>
     <description>Recent content in Categories on 周生春</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    
-	<atom:link href="https://zhoushengchun.life/zh/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh</language><atom:link href="https://zhoushengchun.life/zh/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

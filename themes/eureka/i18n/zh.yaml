@@ -1,7 +1,7 @@
 readMore:
   other: 阅读更多
 readingTime:
-  other: '{{ .ReadingTime }}分钟阅读时长'
+  other: '{{ .Count }}分钟阅读时长'
 toc:
   other: 目录
 seriesOfPosts:
@@ -18,3 +18,9 @@ onThisPage:
   other: 本页内容
 editThisPage:
   other: 编辑本页
+light:
+  other: 浅色
+dark:
+  other: 深色
+auto:
+  other: 自动

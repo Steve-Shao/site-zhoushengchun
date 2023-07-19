@@ -5,10 +5,6 @@
     <link>https://zhoushengchun.life/zh/gallery/</link>
     <description>Recent content in 相册 on 周生春</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh</language>
-    
-	<atom:link href="https://zhoushengchun.life/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>zh</language><atom:link href="https://zhoushengchun.life/zh/gallery/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
