@@ -6,24 +6,21 @@
     <description>Recent content on Shengchun Zhou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zhoushengchun.life/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhoushengchun.life/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>An Article</title>
       <link>https://zhoushengchun.life/en/posts/emoji-support/</link>
       <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://zhoushengchun.life/en/posts/emoji-support/</guid>
       <description>&lt;p&gt;description&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>An Article with Image</title>
       <link>https://zhoushengchun.life/en/posts/featured-image/</link>
       <pubDate>Tue, 26 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://zhoushengchun.life/en/posts/featured-image/</guid>
       <description>&lt;p&gt;description&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
