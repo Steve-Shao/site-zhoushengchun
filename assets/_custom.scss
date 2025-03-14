@@ -1,0 +1,30 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+// @import "plugins/scrollbars";
+@import "css/shortcodes";
+
+/* Set a global background color */
+body {
+    background-color: #ffffff; /* Replace with your desired color code */
+}
+/* Change the sidebar background color globally */
+.book-menu .book-menu-content {
+    background-color: #ffffff; /* Using !important to override theme defaults */
+    // color: #6c3a00; /* A dark gray color that's easier on the eyes than pure black */
+}
+
+/* Import Google Fonts or any other web fonts if needed */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Noto+Serif+SC:wght@500;600;700&display=swap');
+
+/* Customize English pages */
+:lang(en) body {
+    font-family: 'Lora', 'Noto Serif SC', sans-serif;
+//   font-size: 16px; /* Adjust the size as needed */
+}
+
+/* Customize Chinese pages */
+:lang(zh) body {
+    font-family: 'Lora', 'Noto Serif SC', sans-serif;
+//   font-size: 18px; /* Adjust the size as needed */
+}

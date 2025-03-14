@@ -1,0 +1,20 @@
+/* Shortcode styles */
+.note {
+  padding: 15px;
+  margin: 20px 0;
+  border-left: 5px solid #1e90ff;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+}
+
+.note.warning {
+  border-left-color: #ffc107;
+}
+
+.note.danger {
+  border-left-color: #dc3545;
+}
+
+.note.success {
+  border-left-color: #28a745;
+} 

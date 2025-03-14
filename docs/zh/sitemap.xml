@@ -2,221 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zhoushengchun.life/zh/authors/</loc>
+    <loc>http://localhost:1313/docs/dummy/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/papers/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/videos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhoushengchun.life/en/authors/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhoushengchun.life/zh/authors/"
+                href="http://localhost:1313/"
                 />
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E9%82%93%E8%8F%B2/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/posts/"
-                />
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/fei-deng-2/</loc>
+    <loc>http://localhost:1313/posts/fei-deng-2/</loc>
     <lastmod>2024-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/</loc>
-    <lastmod>2024-07-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/"
-                />
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E4%BD%95%E9%94%8B%E9%94%8B/</loc>
+    <loc>http://localhost:1313/posts/he-fengfeng/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/he-fengfeng/</loc>
+    <loc>http://localhost:1313/posts/zhang-xiaohan/</loc>
     <lastmod>2023-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/zhang-xiaohan/</loc>
-    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E7%AB%A0%E6%99%93%E6%B6%B5/</loc>
-    <lastmod>2023-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/zhang-yanfei/</loc>
+    <loc>http://localhost:1313/posts/zhang-yanfei/</loc>
     <lastmod>2023-07-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%BC%A0%E7%87%95%E9%A3%9E/</loc>
-    <lastmod>2023-07-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E8%93%9D%E5%BF%97%E5%8B%87/</loc>
+    <loc>http://localhost:1313/posts/external-lan-zhiyong/</loc>
     <lastmod>2022-08-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/external-lan-zhiyong/</loc>
-    <lastmod>2022-08-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E7%A8%8B%E8%BF%9C/</loc>
+    <loc>http://localhost:1313/posts/cheng-yuan/</loc>
     <lastmod>2022-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/cheng-yuan/</loc>
-    <lastmod>2022-08-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%8C%85%E4%BC%9F%E6%B0%91/</loc>
+    <loc>http://localhost:1313/posts/external-bao-weimin/</loc>
     <lastmod>2022-08-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/external-bao-weimin/</loc>
-    <lastmod>2022-08-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/feng-bing/</loc>
+    <loc>http://localhost:1313/posts/feng-bing/</loc>
     <lastmod>2020-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%86%AF%E5%86%B0/</loc>
-    <lastmod>2020-08-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/wang-jianke-copy/</loc>
+    <loc>http://localhost:1313/posts/wang-jianke-copy/</loc>
     <lastmod>2020-07-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E7%8E%8B%E4%B8%BD%E4%B9%94/</loc>
-    <lastmod>2020-07-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/wang-jianke/</loc>
+    <loc>http://localhost:1313/posts/wang-jianke/</loc>
     <lastmod>2020-07-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E7%8E%8B%E9%89%B4%E5%8F%AF/</loc>
-    <lastmod>2020-07-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%88%98%E7%AC%91%E6%95%A2/</loc>
+    <loc>http://localhost:1313/posts/zhu-fangsheng/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/zhu-fangsheng/</loc>
+    <loc>http://localhost:1313/posts/external-liu-xiaogan/</loc>
     <lastmod>2020-07-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E6%9C%B1%E6%98%89%E6%99%9F/</loc>
-    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/external-liu-xiaogan/</loc>
-    <lastmod>2020-07-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%8D%95%E6%99%93%E9%9B%A8/</loc>
+    <loc>http://localhost:1313/posts/shan-xiaoyu/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/shan-xiaoyu/</loc>
+    <loc>http://localhost:1313/posts/zhang-fanxing/</loc>
     <lastmod>2020-07-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/zhang-fanxing/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%BC%A0%E5%87%A1%E6%98%9F/</loc>
-    <lastmod>2020-07-23T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E7%8E%8B%E5%86%B0%E6%80%A1/</loc>
+    <loc>http://localhost:1313/posts/wang-bingyi/</loc>
     <lastmod>2020-07-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/wang-bingyi/</loc>
-    <lastmod>2020-07-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/fei-deng/</loc>
+    <loc>http://localhost:1313/posts/fei-deng/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E6%9E%97%E5%A0%89%E8%82%B2/</loc>
+    <loc>http://localhost:1313/posts/zhao-rui/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E9%99%86%E4%B8%B9%E7%90%AA/</loc>
+    <loc>http://localhost:1313/posts/lu-danqi/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/zhao-rui/</loc>
+    <loc>http://localhost:1313/posts/xu-jing-lin-peiyu/</loc>
     <lastmod>2020-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/lu-danqi/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/xu-jing-lin-peiyu/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%BE%90%E9%9D%99/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E8%B5%B5%E9%94%90/</loc>
-    <lastmod>2020-07-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/wang-gerui/</loc>
+    <loc>http://localhost:1313/posts/wang-gerui/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/xiao-xiyuan/</loc>
+    <loc>http://localhost:1313/posts/xiao-xiyuan/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/zhang-chunying/</loc>
+    <loc>http://localhost:1313/posts/zhang-chunying/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/posts/shao-hongzhang/</loc>
+    <loc>http://localhost:1313/posts/shao-hongzhang/</loc>
     <lastmod>2020-07-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E9%82%B5%E9%B8%BF%E7%AB%A0/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E7%8E%8B%E6%A0%BC%E7%9D%BF/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E8%82%96%E8%8C%9C%E5%85%83/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/authors/%E5%BC%A0%E6%B7%B3%E6%98%A0/</loc>
-    <lastmod>2020-07-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhoushengchun.life/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhoushengchun.life/zh/categories/"
+                href="http://localhost:1313/categories/"
                 />
   </url><url>
-    <loc>https://zhoushengchun.life/zh/series/</loc>
+    <loc>http://localhost:1313/docs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://zhoushengchun.life/en/series/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://zhoushengchun.life/zh/series/"
+                href="http://localhost:1313/tags/"
                 />
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhoushengchun.life/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zhoushengchun.life/zh/tags/"
-                />
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/gallery/</loc>
-  </url><url>
-    <loc>https://zhoushengchun.life/zh/papers/</loc>
   </url>
 </urlset>

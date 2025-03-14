@@ -1,321 +1,884 @@
 <!DOCTYPE html>
-<html lang='zh' ><meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
-
-
-<title>Posts | 网站模版</title>
-<link rel="stylesheet" href="https://zhoushengchun.life/css/eureka.min.css">
-<script defer src="https://zhoushengchun.life/js/eureka.min.js"></script>
-
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload"
-  href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Noto+Serif+SC:wght@400;600;700&display=swap"
-  as="style" onload="this.onload=null;this.rel='stylesheet'">
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/styles/solarized-light.min.css%25!%28EXTRA%20string=solarized-light%29"
-   media="print"
-  onload="this.media='all';this.onload=null" crossorigin>
-<script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/highlight.min.js"
-   crossorigin></script>
-
-  <script defer src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@10.1.0/build/languages/dart.min.js"
-     crossorigin></script>
-
-<script defer src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.14.0/js/all.min.js"
-   integrity="sha256-uNYoXefWRqv&#43;PsIF/OflNmwtKM4lStn9yrz2gVl6ymo="  crossorigin></script>
-
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css"
-   integrity="sha384-AfEj0r4/OFrOo5t7NnNe46zW/tFgW6x/bCJG8FqQCEo3&#43;Aro6EYUG4&#43;cU&#43;KJWu/X"  media="print"
-  onload="this.media='all';this.onload=null" crossorigin>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.js" 
-  integrity="sha384-g7c&#43;Jr9ZivxKLnZTDUhnkOnsh30B4H0rpLUpJ4jAIKs4fnJI&#43;sEnkvrMWph2EDg4"  crossorigin></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/contrib/auto-render.min.js"
-   integrity="sha384-mll67QQFJfxn0IYznZYonOWZ644AWYC&#43;Pt2cHqMaRhXVrursRwvLnLaebdGIlYNa"  crossorigin></script>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    renderMathInElement(document.body, {
-      delimiters: [
-        { left: "$$", right: "$$", display: true },
-        { left: "$", right: "$", display: false },
-        { left: "\\(", right: "\\)", display: false },
-        { left: "\\[", right: "\\]", display: true }
-      ],
-    });
-  });
-</script>
-<link rel="preconnect" href="https://www.google-analytics.com" crossorigin>
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-234094605-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', 'UA-234094605-1');
-</script>
-
-
-<link rel="icon" type="image/png" sizes="32x32" href="https://zhoushengchun.life/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_32x32_fill_box_center_2.png">
-<link rel="apple-touch-icon" sizes="180x180" href="https://zhoushengchun.life/images/icon_hu64421c6c7700f606f0ad45d807017b09_5843_180x180_fill_box_center_2.png">
-
-<meta name="description"
-  content="Eureka is a elegant and powerful theme for Hugo.">
-
-
-
-
-<script type="application/ld+json">
-{
-    "@context":"https://schema.org",
-    "@type":"ItemList",
-    "itemListElement":[{
-            "@type":"ListItem",
-            "position":  1 ,
-            "name": "一篇文章",
-            "description": "一篇文章的描述",
-            "url": "https://zhoushengchun.life/posts/emoji-support/"
-        },{
-            "@type":"ListItem",
-            "position":  2 ,
-            "name": "一篇带图片的文章",
-            "description": "一篇带图片的文章的描述",
-            "image": "https://zhoushengchun.life/3.jpeg",
-            "url": "https://zhoushengchun.life/posts/featured-image/"
+<html lang="zh" dir="ltr">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="">
+<meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
+<meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
+<meta name="color-scheme" content="light dark"><meta property="og:url" content="http://localhost:1313/posts/">
+  <meta property="og:site_name" content="周生春">
+  <meta property="og:title" content="纪念文章">
+  <meta property="og:locale" content="zh">
+  <meta property="og:type" content="website">
+<title>纪念文章 | 周生春</title>
+<link rel="icon" href="/favicon.png" >
+<link rel="manifest" href="/manifest.json">
+<link rel="canonical" href="http://localhost:1313/posts/">
+<link rel="stylesheet" href="/book.min.03ea48256f7d82984dafa43d9a4912ef9927aacbfee40e6a73da944030637ca4.css" integrity="sha256-A&#43;pIJW99gphNr6Q9mkkS75knqsv&#43;5A5qc9qUQDBjfKQ=" crossorigin="anonymous">
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-W27SP7MN2F"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
         }
-    ]
-}
-</script><meta property="og:title" content="Posts | 网站模版" />
-<meta property="og:type" content="website" />
-
-
-<meta property="og:image" content="https://zhoushengchun.life/images/icon.png">
-
-
-<meta property="og:url" content="https://zhoushengchun.life/posts/" />
-
-
-
-
-
-<meta property="og:description" content="Eureka is a elegant and powerful theme for Hugo." />
-
-
-
-
-
-<meta property="og:locale" content="zh" />
-
-
-
-<meta property="og:locale:alternate" content="en" />
-
-
-
-
-<meta property="og:site_name" content="网站模版" />
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-W27SP7MN2F');
+        }
+      </script><link rel="alternate" type="application/rss+xml" href="http://localhost:1313/posts/index.xml" title="周生春" />
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>周生春</span>
+  </a>
+</h2>
 
 
 
 
-
-
-<meta property="og:updated_time" content="2021-03-05T00:00:00&#43;00:00" />
+  
 
 
 
-<meta property="article:section" content="posts" />
+  
+    
+  
 
 
-<link rel="alternate" type="application/rss+xml" href="https://zhoushengchun.life/posts/index.xml" title="网站模版" />
 
-<body class="flex flex-col min-h-screen">
-  <header class="fixed flex items-center w-full min-h-16 pl-scrollbar z-50 bg-secondary-bg shadow-sm">
-    <div class="w-full max-w-screen-xl mx-auto"><script>
-    let storageColorScheme = localStorage.getItem("lightDarkMode")
-    if (((storageColorScheme == 'Auto' || storageColorScheme == null) && window.matchMedia("(prefers-color-scheme: dark)").matches) || storageColorScheme == "Dark") {
-        document.getElementsByTagName('html')[0].classList.add('dark')
-    }
-</script>
-<nav class="flex items-center justify-between flex-wrap px-4 py-4 md:py-0">
-    <a href="/" class="mr-6 text-primary-text text-xl font-bold">网站模版</a>
-    <button id="navbar-btn" class="md:hidden flex items-center px-3 py-2" aria-label="Open Navbar">
-        <i class="fas fa-bars"></i>
-    </button>
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" checked />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        中文
+      </a>
+    </label>
 
-    <div id="target"
-        class="hidden block md:flex md:flex-grow md:justify-between md:items-center w-full md:w-auto text-primary-text z-20">
-        <div class="md:flex md:h-16 text-sm md:flex-grow pb-4 md:pb-0 border-b md:border-b-0">
-            <a href="/posts/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  selected-menu-item  mr-4">文章</a>
-            <a href="/../en/" class="block mt-4 md:inline-block md:mt-0 md:h-(16-4px) md:leading-(16-4px) box-border md:border-t-2 md:border-b-2  border-transparent  mr-4">English Site</a>
-        </div>
+    <ul>
+      
+      <li>
+        <a href="/en/">
+          English
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
 
-        <div class="flex">
-            <div class="relative pt-4 md:pt-0">
-                <div class="cursor-pointer hover:text-eureka" id="lightDarkMode">
-                    <i class="fas fa-adjust"></i>
-                </div>
-                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open">
-                </div>
-                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
-                    id='lightDarkOptions'>
-                    <span class="px-4 py-1 hover:text-eureka">Light</span>
-                    <span class="px-4 py-1 hover:text-eureka">Dark</span>
-                    <span class="px-4 py-1 hover:text-eureka">Auto</span>
-                </div>
-            </div>
-            <div class="relative pt-4 pl-4 md:pt-0">
-                <div class="cursor-pointer hover:text-eureka" id="languageMode">
-                    <i class="fas fa-globe"></i>
-                    <span class="pl-1">简体中文</span>
-                </div>
-                <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-30" id="is-open-lang">
-                </div>
-                <div class="absolute flex flex-col left-0 md:left-auto right-auto md:right-0 hidden bg-secondary-bg w-48 rounded py-2 border border-tertiary-bg cursor-pointer z-40"
-                    id='languageOptions'>
-                    <a class="px-4 py-1 hover:text-eureka" href="https://zhoushengchun.life/posts/">简体中文</a>
-                    <a class="px-4 py-1 hover:text-eureka" href="https://zhoushengchun.life/en/posts/">English</a>
-                </div>
-            </div>
-        </div>
-    </div>
 
-    <div class="fixed hidden inset-0 opacity-0 h-full w-full cursor-default z-0" id="is-open-mobile">
-    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <span>-----</span>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <a href="/docs/papers/" class="">论文集</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li class="book-section-flat" >
+          
+  
+  
+
+  
+    <a href="/docs/videos/" class="">影像</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+  
+<ul>
+  
+  <li>
+    <a href="/posts/"  >
+        纪念文章
+      </a>
+  </li>
+  
+</ul>
+
+
+
+
+
 
 </nav>
-<script>
-    let element = document.getElementById('lightDarkMode')
-    if (storageColorScheme == null || storageColorScheme == 'Auto') {
-        document.addEventListener('DOMContentLoaded', () => {
-            switchMode('Auto')
-        })
-    } else if (storageColorScheme == "Light") {
-        element.firstElementChild.classList.remove('fa-adjust')
-        element.firstElementChild.setAttribute("data-icon", 'sun')
-        element.firstElementChild.classList.add('fa-sun')
-    } else if (storageColorScheme == "Dark") {
-        element.firstElementChild.classList.remove('fa-adjust')
-        element.firstElementChild.setAttribute("data-icon", 'moon')
-        element.firstElementChild.classList.add('fa-moon')
-    }
-    
-    document.addEventListener('DOMContentLoaded', () => {
-        getcolorscheme();
-        switchBurger();
-        switchLanguage()
-    });
-</script></div>
-  </header>
-  <main class="flex-grow pt-16">
-    <div class="pl-scrollbar">
-      <div class="w-full max-w-screen-xl lg:px-4 xl:px-8 mx-auto">
-<article class="mx-6 my-8">
-    <h1 class="font-bold text-3xl text-primary-text">Posts</h1>
-    
-</article>
-<div class="bg-secondary-bg rounded px-6">
-    <div class="overflow-hidden divide-y">
-  
-  <div class="py-6">
-    <div class="flex flex-col-reverse lg:flex-row justify-between">
-  
-  <div class="w-full ">
-    <div class="mb-4">
-  <a href="https://zhoushengchun.life/posts/emoji-support/" class="font-bold text-xl hover:text-eureka">一篇文章</a>
-</div>
-<div class="content">
-  当时只道是寻常
-
-</div>
-
-<div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
-    <div class="mr-6 my-2">
-        <i class="fas fa-calendar mr-1"></i>
-        <span>2021-03-05</span>
-    </div>
-    <div class="mr-6 my-2">
-        <i class="fas fa-clock mr-1"></i>
-        <span>1分钟阅读时长</span>
-    </div>
-    
-    
-
-    
-</div>
-
-  </div>
-
-  
-</div>
-  </div>
-  
-  <div class="py-6">
-    <div class="flex flex-col-reverse lg:flex-row justify-between">
-  
-  <div class="w-full lg:w-2/3">
-    <div class="mb-4">
-  <a href="https://zhoushengchun.life/posts/featured-image/" class="font-bold text-xl hover:text-eureka">一篇带图片的文章</a>
-</div>
-<div class="content">
-  散若满天星
-
-</div>
-
-<div class="flex flex-wrap flex-row items-center mt-2 text-tertiary-text">
-    <div class="mr-6 my-2">
-        <i class="fas fa-calendar mr-1"></i>
-        <span>2020-05-26</span>
-    </div>
-    <div class="mr-6 my-2">
-        <i class="fas fa-clock mr-1"></i>
-        <span>1分钟阅读时长</span>
-    </div>
-    
-    
-    <div class="mr-6 my-2">
-        <i class="fas fa-folder mr-1"></i>
-        
-        <a href="https://zhoushengchun.life/categories/themes/" class="hover:text-eureka">themes</a>
-        
-    </div>
-    
-
-    
-    <div class="mr-6 my-2">
-        <i class="fas fa-th-list mr-1"></i>
-        
-        <a href="https://zhoushengchun.life/series/themes-guide/" class="hover:text-eureka">Themes Guide</a>
-        
-    </div>
-    
-</div>
-
-  </div>
-
-  
-  <div class="w-full lg:w-1/3 mb-4 lg:mb-0 lg:ml-8">
-    <img src="https://zhoushengchun.life/3.jpeg" class="w-full" alt="Featured Image">
-  </div>
-  
-</div>
-  </div>
-  
-</div>
-
-
-</div>
 
 
 
 
+  <script>(function(){var e=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(){localStorage.setItem("menu.scrollTop",e.scrollTop)}),e.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
       </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <h3>纪念文章</h3>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  <nav>
+  <ul>
+  
+    
+    <li class="book-section-flat">
+      <strong>Categories</strong>
+      <ul>
+      
+      </ul>
+    </li>
+    
+  
+    
+    <li class="book-section-flat">
+      <strong>Tags</strong>
+      <ul>
+      
+      </ul>
+    </li>
+    
+  
+  </ul>
+</nav>
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/fei-deng-2/">两周年年报（个人版） - 邓菲</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2024-07-21</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>周老师，我终于开始读博啦。</p>
+        <a href="/posts/fei-deng-2/">...</a>
+      
     </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/he-fengfeng/">纪念 - 何锋锋</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2023-07-20</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>转眼又是一年，今天是周老师逝世一周年。</p>
+        <a href="/posts/he-fengfeng/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/zhang-xiaohan/">写于周老师辞世一周年之际 - 章晓涵</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2023-07-20</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>一年前的今天，周老师走了。</p>
+        <a href="/posts/zhang-xiaohan/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/zhang-yanfei/">我与周生春先生的二三事：纪念恩师周生春先生逝世一周年 - 张燕飞</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2023-07-19</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>七月五日，接到灵燕的通知，李明友老师去世了。</p>
+<p>八日下午，赶去殡仪馆送李老师最后一程。</p>
+<p>蝉鸣聒噪，暑气蒸腾，酷烈的日光也抵不过，心中缓缓流淌的微凉的哀伤。</p>
+<p>一瞬间的恍惚，时间重回去年的七月。</p>
+        <a href="/posts/zhang-yanfei/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/external-lan-zhiyong/">缅怀周生春老师 - 蓝志勇教授</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-08-23</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>惊闻周生春老师驾鹤西去，总觉得不是真的。但长久反复地看朋友送来的信息，还是感到了悲痛。大自然带走了一位良师益友，他去与天地同在，从此只能从梦境中看到他的音容笑貌，在想象中与他进行沟通交流了。</p>
+        <a href="/posts/external-lan-zhiyong/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/cheng-yuan/">在周老师追思会上的发言 - 程远</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-08-21</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>感谢长宇，感谢其欣，很荣幸今天有机会在周老师的追思会上发言，对我个人来说，过去的一个月和大家一样，是悲伤的，更是遗憾的。但同时，过去的一个月又是让我充满希望的。</p>
+        <a href="/posts/cheng-yuan/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/external-bao-weimin/">周生春教授追思会发言 - 包伟民教授</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-08-20</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>7月20日早上，我接到董希望师侄发来信息，得知师兄周生春教授已于当天凌晨两点离世，呆呆地坐了半天。</p>
+        <a href="/posts/external-bao-weimin/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/feng-bing/">恩师老周 - 冯冰</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-08-03</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>我和老周的2015至今：</p>
+        <a href="/posts/feng-bing/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/wang-jianke-copy/">从周老师的眼中看到自己 - 王丽乔</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-31</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>周老师走了，我好像就没有老师了，也失去了很多安慰。</p>
+        <a href="/posts/wang-jianke-copy/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/wang-jianke/">死而未已，不亦弥远乎？ - 王鉴可</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-26</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>7月20日的早晨，在匆忙的上班途中，我收到了周老师凌晨离世的消息，因为工作的原因，未得闲暇，容自己深思悼念。</p>
+        <a href="/posts/wang-jianke/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/zhu-fangsheng/">周老师的道是什么？ - 朱昉晟</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-24</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>周老师给二期学生上课，讲了《史记》。印象最深一节课的是讲萧何、韩信、张良，三个人如何代表了儒家、法家、道家这三种人生取向。</p>
+        <a href="/posts/zhu-fangsheng/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/external-liu-xiaogan/">追思生春教授 - 刘笑敢教授</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-24</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>日前惊闻周生春兄病逝，颇感突然，事先对兄得病之事全然无知，说哀痛，说惋惜，都远远无法形容一时之间的骤然伤感，当时就觉得该为生春兄做点什么，但又不知如何做。</p>
+        <a href="/posts/external-liu-xiaogan/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/shan-xiaoyu/">记周老师二三事 - 单晓雨</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-23</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>本科毕业的那年夏天，恰逢文中访欧。欧洲之行极之坎坷，甚至堪谓凶险。在佛罗伦萨的某一天，旅程似乎陷入了令人窒息的绝境。</p>
+        <a href="/posts/shan-xiaoyu/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/zhang-fanxing/">仍歌杨柳春风：怀念敬爱的周老师 - 张凡星</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-23</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>在无数未来的回忆里，我们会突兀地在几段话里比邻，然后像午风吹起的林叶，隐入轻摇的群山。</p>
+        <a href="/posts/zhang-fanxing/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/wang-bingyi/">昨天堂 - 王冰怡</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-22</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>忘记有回是因为什么事去找老周。在中心的办公室里，正好碰上从北京回来看望老周的学姐。</p>
+        <a href="/posts/wang-bingyi/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/fei-deng/">怀念周生春老师 - 邓菲</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-21</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>现在依然不能接受周老师已经离去的事实。</p>
+        <a href="/posts/fei-deng/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/zhao-rui/">缅怀周生春老师 - 赵锐</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-21</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>2022年7月20日，敬爱的周生春老师永远地离开了他的亲人，朋友，学生。</p>
+        <a href="/posts/zhao-rui/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/lu-danqi/">死而未已，不亦弥远乎？ - 陆丹琪</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-21</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>2022年7月20日凌晨两点，恩师驾鹤西去。于昨日和今日断续记录下一些私己的记忆：</p>
+        <a href="/posts/lu-danqi/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/xu-jing-lin-peiyu/">想念我们最好的周老师 - 徐静，林堉育</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-21</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>林堉育：“周老师总是在夸徐静，总是在骂林堉育”，你觉得这个开头怎么样？</p>
+        <a href="/posts/xu-jing-lin-peiyu/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/wang-gerui/">不思量，自难忘 -- 追忆恩师 - 王格睿</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-20</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>炎炎七月，此时的玉泉经济学院楼前，几株梧桐想必依然树影摇曳、宁静美好。然而，我那仁厚坦荡、浩然如海、温润如玉的恩师，却在梦中仙逝了。</p>
+        <a href="/posts/wang-gerui/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/xiao-xiyuan/">纪念周老师 - 肖茜元</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-20</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>我们这一期文中人中，常常流传着一张表情包：“你们这个样子不行的啦”。</p>
+        <a href="/posts/xiao-xiyuan/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/zhang-chunying/">老周 - 张淳映</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-20</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>「以一灯传诸灯，终至万灯皆明。」</p>
+        <a href="/posts/zhang-chunying/">...</a>
+      
+    </div>
+  </article>
+  
+  <article class="markdown book-post">
+    <h2>
+      <a href="/posts/shao-hongzhang/">老周到底想教会我什么 - 邵鸿章</a>
+    </h2>
+    
+  <div class="flex align-center text-small book-post-date">
+    <img src="/svg/calendar.svg" class="book-icon " alt="" />
+    <span>2022-07-20</span>
+  </div>
+
+
+
+  
+
+  
+
+
+    <div class="book-post-content"><br>
+<p>我师长缘极好，总得良师照顾。其中最特殊的，当属本科时的一位周老师。</p>
+        <a href="/posts/shao-hongzhang/">...</a>
+      
+    </div>
+  </article>
+  
+
+  
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function e(e){const t=window.getSelection(),n=document.createRange();n.selectNodeContents(e),t.removeAllRanges(),t.addRange(n)}document.querySelectorAll("pre code").forEach(t=>{t.addEventListener("click",function(){if(window.getSelection().toString())return;e(t.parentElement),navigator.clipboard&&navigator.clipboard.writeText(t.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  <nav>
+  <ul>
+  
+    
+    <li class="book-section-flat">
+      <strong>Categories</strong>
+      <ul>
+      
+      </ul>
+    </li>
+    
+  
+    
+    <li class="book-section-flat">
+      <strong>Tags</strong>
+      <ul>
+      
+      </ul>
+    </li>
+    
+  
+  </ul>
+</nav>
+
+ 
+      </div>
+    </aside>
     
   </main>
-  <footer class="pl-scrollbar">
-    <div class="w-full max-w-screen-xl mx-auto"><div class="text-center p-6 pin-b">
-    <p class="text-sm text-tertiary-text"> Powered by the <a href="https://github.com/wangchucheng/hugo-eureka" class="hover:text-eureka">Eureka</a> theme for <a href="https://gohugo.io" class="hover:text-eureka">Hugo</a></p>
-</div></div>
-  </footer>
-</body>
 
+  
+</body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
